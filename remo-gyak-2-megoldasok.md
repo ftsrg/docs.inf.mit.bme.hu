@@ -38,6 +38,12 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
+
+First Header Second Header
+------------ -------------
+Content Cell Content Cell
+Content Cell Content Cell
+
 ----------- --------------------------- ---------------- --------------------- -----------------------
             $S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
 ----------- --------------------------- ---------------- --------------------- -----------------------
