@@ -33,16 +33,21 @@ b) $S_p = \{p, \emptyset\}$, $S_s = \{s, \bar{s}, \emptyset\}$, $S_z = \{z, \emp
 
 Ebből természetesen nem minden állapot fordul elő: $S \subset S_p \times S_s \times S_z$
 
+Hello.
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
+Hello.
 
 First Header Second Header
 ------------ -------------
 Content Cell Content Cell
 Content Cell Content Cell
+
+Hello.
 
 ----------- --------------------------- ---------------- --------------------- -----------------------
             $S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
