@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Blogging Like a Hacker
 header: Rendszermodellezés -- 2. gyakorlat -- megoldások
 ---
 
