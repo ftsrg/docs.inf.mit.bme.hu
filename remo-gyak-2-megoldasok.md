@@ -37,11 +37,8 @@ Ebből természetesen nem minden állapot fordul elő: $S \subset S_p \times S_s
 			$S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
 ----------- --------------------------- ---------------- --------------------- -----------------------
 $p$         $z$                         $psz$            $p\bar{s}z$           $pz$ 
-
 			$\emptyset$                 $\underline{ps}$ $p\bar{s}$            $\underline{p}$
-
 $\emptyset$ $z$                         $sz$             $\bar{s}z$            $\underline{z}$
-
 			$\emptyset$                 $\underline{s}$  $\underline{\bar{s}}$ $\underline{\emptyset}$
 ----------- --------------------------- ---------------- --------------------- -----------------------
 
