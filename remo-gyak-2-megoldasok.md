@@ -33,20 +33,19 @@ b) $S_p = \{p, \emptyset\}$, $S_s = \{s, \bar{s}, \emptyset\}$, $S_z = \{z, \emp
 
 Ebből természetesen nem minden állapot fordul elő: $S \subset S_p \times S_s \times S_z$
 
-	----------- --------------------------- ---------------- --------------------- -----------------------
-	            $S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
-	----------- --------------------------- ---------------- --------------------- -----------------------
-	$p$         $z$                         $psz$            $p\bar{s}z$           $pz$ 
+----------- --------------------------- ---------------- --------------------- -----------------------
+			$S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
+----------- --------------------------- ---------------- --------------------- -----------------------
+$p$         $z$                         $psz$            $p\bar{s}z$           $pz$ 
 
-	            $\emptyset$                 $\underline{ps}$ $p\bar{s}$            $\underline{p}$
+			$\emptyset$                 $\underline{ps}$ $p\bar{s}$            $\underline{p}$
 
-	$\emptyset$ $z$                         $sz$             $\bar{s}z$            $\underline{z}$
+$\emptyset$ $z$                         $sz$             $\bar{s}z$            $\underline{z}$
 
-	            $\emptyset$                 $\underline{s}$  $\underline{\bar{s}}$ $\underline{\emptyset}$
-	----------- --------------------------- ---------------- --------------------- -----------------------
+			$\emptyset$                 $\underline{s}$  $\underline{\bar{s}}$ $\underline{\emptyset}$
+----------- --------------------------- ---------------- --------------------- -----------------------
 
-	Az aláhúzott állapotok az eredeti állapottérben is megjelennek.
-
+Az aláhúzott állapotok az eredeti állapottérben is megjelennek.
 
 c) Érvényes állapotátmeneti szabályok állapotgráfja a 6 állapot között. A kezdőállapotot "villámmal" szokás jelölni (ld. diasor). Sok tervezői döntéssel szembesülünk:
 
