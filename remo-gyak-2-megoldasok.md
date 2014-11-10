@@ -16,12 +16,12 @@ Fogalmak:
 
 Válaszok:
 
-a) Nem. A három közül *pontosan egynek* kell igaznak lennie minden időpillanatban.
-b) Nem. Egyszerre több gép is dolgozhat.
-c) Igen. Természetesen elképzelhetők további állapotok is, pl. *hibernált*.
-d) Igen, ez egy végtelen állapotteret eredményez. A kizárólagosság mellett fontos vizsgálni, hogy teljes-e. Pl. 3,5 vagy $-9$ kérés nem lehet a rendszerben, ezért teljes.
-e) Igen, ha egyszerre egy kérés lehet a rendszerben. Ezzel azonban a modellünk nem lesz alkalmas terhelések vizsgálatára.
-f) Igen, ez teljes és kizárólagos, ezért alkalmas állapotpartíciónak. Ez az állapotmentes modell. Állapotmentes protokollokat (pl. a HTTP-t) érdemes lehet így modellezni.
+a. Nem. A három közül *pontosan egynek* kell igaznak lennie minden időpillanatban.
+b. Nem. Egyszerre több gép is dolgozhat.
+c. Igen. Természetesen elképzelhetők további állapotok is, pl. *hibernált*.
+d. Igen, ez egy végtelen állapotteret eredményez. A kizárólagosság mellett fontos vizsgálni, hogy teljes-e. Pl. 3,5 vagy $-9$ kérés nem lehet a rendszerben, ezért teljes.
+e. Igen, ha egyszerre egy kérés lehet a rendszerben. Ezzel azonban a modellünk nem lesz alkalmas terhelések vizsgálatára.
+f. Igen, ez teljes és kizárólagos, ezért alkalmas állapotpartíciónak. Ez az állapotmentes modell. Állapotmentes protokollokat (pl. a HTTP-t) érdemes lehet így modellezni.
 
 ## 2. feladat
 
