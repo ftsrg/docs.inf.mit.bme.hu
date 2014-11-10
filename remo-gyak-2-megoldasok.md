@@ -31,7 +31,7 @@ b) $S_p = \{p, \emptyset\}$, $S_s = \{s, \bar{s}, \emptyset\}$, $S_z = \{z, \emp
     * p esetén $S_p = \{p\}, S_s = \{\emptyset\}, S_z = \{\emptyset\}$
     * direkt szorzat: $S_p \times S_s \times S_z$, $2 \times 3 \times 2 = 12$ elemű lesz.
 
-    Ebből természetesen nem minden állapot fordul elő: $S \subset S_p \times S_s \times S_z$
+Ebből természetesen nem minden állapot fordul elő: $S \subset S_p \times S_s \times S_z$
 
 	----------- --------------------------- ---------------- --------------------- -----------------------
 	            $S_p \times S_s \times S_z$ $s$              $\bar{s}$             $\emptyset$
