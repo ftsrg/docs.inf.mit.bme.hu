@@ -26,9 +26,7 @@ f. Igen, ez teljes és kizárólagos, ezért alkalmas állapotpartíciónak. Ez 
 ## 2. feladat
 
 a. {piros, sárga, zöld, piros-sárga, villogó sárga, kikapcsolt}, röviden: $S = \{p, s, z, ps, \bar{s}, \emptyset\}$. Ez kizárólagos és teljes. A kezdeti állapot: $p$.
-
 b. $S_p = \{p, \emptyset\}$, $S_s = \{s, \bar{s}, \emptyset\}$, $S_z = \{z, \emptyset\}$. Másik színű filccel érdemes berajzolni az egy és a három állapotváltozós modell közötti kapcsolatokat, pl.
-
     * p esetén $S_p = \{p\}, S_s = \{\emptyset\}, S_z = \{\emptyset\}$
     * direkt szorzat: $S_p \times S_s \times S_z$, $2 \times 3 \times 2 = 12$ elemű lesz.
 
