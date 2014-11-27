@@ -17,24 +17,4 @@ tagline: Fault Tolerant Systems Research Group
 
 ## Train Benchmark
 
-* Common repositories:
-  * [Core](https://github.com/ftsrg/trainbenchmark-core)
-  * [Documentation](https://github.com/ftsrg/trainbenchmark-docs)
-  * [Analyzer](https://github.com/ftsrg/trainbenchmark-analyze)
-  * [ASE variant](https://github.com/ftsrg/trainbenchmark-ase)
-  * [Metric calculator](https://github.com/ftsrg/trainbenchmark-metrics)
-* Repositories for representations:
-  * [EMF](https://github.com/ftsrg/trainbenchmark-emf)
-  * [Graph](https://github.com/ftsrg/trainbenchmark-graph)
-  * [RDF](https://github.com/ftsrg/trainbenchmark-rdf)
-  * [SQL](https://github.com/ftsrg/trainbenchmark-sql)
-* Repositories for tools:
-  * [4store](https://github.com/ftsrg/trainbenchmark-fourstore)
-  * [Drools](https://github.com/ftsrg/trainbenchmark-drools)
-  * [Eclipse OCL](https://github.com/ftsrg/trainbenchmark-eclipseocl)
-  * [EMF-IncQuery](https://github.com/ftsrg/trainbenchmark-emfincquery)
-  * [IncQuery-D](https://github.com/ftsrg/trainbenchmark-incqueryd)
-  * [Java](https://github.com/ftsrg/trainbenchmark-java)
-  * [MySQL](https://github.com/ftsrg/trainbenchmark-mysql)
-  * [Neo4j](https://github.com/ftsrg/trainbenchmark-neo4j)
-  * [Sesame](https://github.com/ftsrg/trainbenchmark-sesame)
+* [Train Benchmark core repository](https://github.com/ftsrg/trainbenchmark-core)
