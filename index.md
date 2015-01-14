@@ -19,3 +19,7 @@ tagline: Fault Tolerant Systems Research Group
 ## Train Benchmark
 
 * [Train Benchmark core repository](https://github.com/ftsrg/trainbenchmark-core)
+
+## System Modelling
+
+* [System Modelling course](http://docs.inf.mit.bme.hu/remo/)
