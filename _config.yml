@@ -3,7 +3,7 @@
 permalink: /:categories/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-keep_files: ["remo"]
+keep_files: ["remo/*"]
 
 highlighter: pygments
 
@@ -19,7 +19,6 @@ title : FTSRG
 tagline: Site Tagline
 author :
   name : FTSRG
-  email : blah@email.test
   github : username
   twitter : username
   feedburner : feedname
