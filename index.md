@@ -4,21 +4,19 @@ title: FTSRG
 tagline: Fault Tolerant Systems Research Group
 ---
 
-* [Technology Cheat Sheets](https://github.com/ftsrg/technology-cheat-sheets/wiki): Getting started tutorials and cheat sheets for various technologies used in our projects.
-* [Public Appearance](https://github.com/ftsrg/public-appearance): Public appearance guidelines and logos.
-* [Academia](https://github.com/ftsrg/academia/wiki): Guidelines for academic research, fake research papers, web comics, etc.
-* [MDSD Lecture Notes](https://github.com/ftsrg/mdsd/wiki): Course materials for the Model-Driven Software Design and the Service Integration courses.
+* [Cheat Sheets](https://github.com/FTSRG/cheat-sheets/wiki): Getting started tutorials and cheat sheets for various technologies used in our projects.
+* [Public Appearance](https://github.com/FTSRG/templates): Templates, public appearance guidelines and logos.
+* [Lecture Notes](https://github.com/FTSRG/lecture-notes/wiki): Lecture notes for some courses.
 * [Massif](https://github.com/FTSRG/massif): MATLAB Simulink Integration Framework for Eclipse.
 
 ## Thesis Templates
 
-* [Thesis Template in LaTeX](https://github.com/ftsrg/thesis-template-latex)
-* [Thesis Template in Markdown](https://github.com/ftsrg/thesis-template-markdown)
-* [Thesis Template in Microsoft Word](https://github.com/ftsrg/thesis-template-word)
+* [Thesis Template in LaTeX](https://github.com/FTSRG/thesis-template-latex)
+* [Thesis Template in Microsoft Word](https://github.com/FTSRG/thesis-template-word)
 
 ## Train Benchmark
 
-* [Train Benchmark](https://github.com/ftsrg/trainbenchmark)
+* [Train Benchmark](https://github.com/FTSRG/trainbenchmark)
 
 ## System Modelling
 
