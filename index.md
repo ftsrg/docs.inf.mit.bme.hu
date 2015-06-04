@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FTSRG
+title: <img src="https://raw.githubusercontent.com/FTSRG/templates/master/logos/ftsrg-logo.svg" width="100px"> FTSRG
 tagline: Fault Tolerant Systems Research Group
 ---
 
