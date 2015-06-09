@@ -19,7 +19,7 @@ tagline: Fault Tolerant Systems Research Group
 * [IncQuery-D](https://github.com/FTSRG/incqueryd): A distributed incremental graph search engine.
 * [Massif](https://github.com/FTSRG/massif): MATLAB Simulink Integration Framework for Eclipse.
 * [MONDO-SAM](https://github.com/FTSRG/mondo-sam): A Framework to Systematically Assess MDE Scalability.
-* [SEViz (Symbolic Execution VisualIZer)](https://github.com/FTSRG/seviz): a tool for visualizing symbolic execution-based test generation
+* [SEViz (Symbolic Execution VisualIZer)](https://github.com/FTSRG/seviz): a tool for visualizing symbolic execution-based test generation.
 * [Train Benchmark](https://github.com/FTSRG/trainbenchmark): The Train Benchmark framework, a cross-platform benchmark for query eveluation and transformation.
 * [Train Benchmark TTC](https://github.com/FTSRG/trainbenchmark-paper): The Train Benchmark case for the 2015 Transformation Tool Contest.
 
