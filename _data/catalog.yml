@@ -8,10 +8,14 @@ organizations:
   - name: FTSRG-archive
     purpose: Organization for archiving abandoned projects
 
+################################################################################
+
 general:
   - repository: cheat-sheets
     name: Cheat Sheets
     content: Getting started tutorials and cheat sheets for various technologies used in our projects
+
+################################################################################
 
 courses:
   - repository: remo
@@ -24,6 +28,8 @@ courses:
     name: Lecture notes
     content: Notes for the Model-Driven Software Development and System Integration courses.
 
+################################################################################
+
 templates:
   - repository: thesis-template-latex
     content: Thesis template in LaTeX
@@ -31,6 +37,8 @@ templates:
     content: Thesis template in Microsoft Word
   - repository: templates
     content: Public appearance guidelines and logos
+
+################################################################################
 
 papers:
   - title: The TTC 2015 Train Benchmark Case for Incremental Model Validation
@@ -42,6 +50,8 @@ papers:
   - title: Java Refactoring Case, a VIATRA Solution
     conference: Transformation Tool Contest 2015
     repository: paper-ttc15-java-refactoring
+
+################################################################################
 
 projects:
   - name: MONDO
@@ -68,12 +78,14 @@ projects:
     - name: RDF graph drivers
       repository: rdf-graph-drivers
       description: Interface specification and implementations for handling RDF models with a graph-like interface
+  
   - name: SEViz
     homepage: http://docs.inf.mit.bme.hu/seviz/
     repositories:
     - name: SEViz (Symbolic Execution VisualIZer)
       repository: seviz
       description: A tool for visualizing symbolic execution-based test generation
+  
   - name: Train Benchmark
     homepage: http://docs.inf.mit.bme.hu/trainbenchmark/
     repositories:
@@ -83,6 +95,7 @@ projects:
     - name: Train Benchmark TTC
       repository: trainbenchmark-ttc
       description: Framework for the TTC 2015 Train Benchmark case
+  
   - name: Massif
     homepage: https://github.com/FTSRG/massif
     repositories:
