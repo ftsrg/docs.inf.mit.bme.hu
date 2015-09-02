@@ -1,0 +1,91 @@
+organizations:
+  - name: FTSRG
+    purpose: Main organization for FTSRG projects and educational materials
+  - name: FSTRG-CSI-2015
+    purpose: Organization for the 2015 Critical Systems Integration Laboratory
+  - name: FTSRG-VIMIMA01
+    purpose: Organization for the Software and Systems Verification course
+  - name: FTSRG-archive
+    purpose: Organization for archiving abandoned projects
+
+general:
+  - repository: cheat-sheets
+    name: Cheat Sheets
+    content: Getting started tutorials and cheat sheets for various technologies used in our projects
+
+courses:
+  - repository: remo
+    name: System Modelling
+    content: Repository for storing notes for the new System Modelling course (2nd semester)
+  - repository: remo-elagazo
+    name: System Modelling (classic)
+    content: Repository for storing notes for the old System Modelling course (7th semester)
+  - repository: lecture-notes
+    name: Lecture notes
+    content: Notes for the Model-Driven Software Development and System Integration courses.
+
+templates:
+  - repository: thesis-template-latex
+    content: Thesis template in LaTeX
+  - repository: thesis-template-word
+    content: Thesis template in Microsoft Word
+  - repository: templates
+    content: Public appearance guidelines and logos
+
+papers:
+  - title: The TTC 2015 Train Benchmark Case for Incremental Model Validation
+    repository: paper-ttc15-trainbenchmark
+    conference: Transformation Tool Contest 2015
+  - title: Train Benchmark Case, an EMF-IncQuery Solution
+    conference: Transformation Tool Contest 2015
+    repository: paper-ttc15-trainbenchmark-eiq
+  - title: Java Refactoring Case, a VIATRA Solution
+    conference: Transformation Tool Contest 2015
+    repository: paper-ttc15-java-refactoring
+
+projects:
+  - name: MONDO
+    homepage: http://www.mondo-project.org/
+    repositories:
+    - name: IncQuery-D
+      repository: incqueryd
+      description: A distributed incremental graph search engine
+    - name: IncQuery-D core
+      repository: incqueryd-core
+      description: A Scala-based implementation of IncQuery-D's distributed query engine
+    - name: Mondix
+      repository: mondix
+      description: The MONDO Indexer
+    - name: MONDO Collaboration Framework
+      repository: mondo-collab-framework
+      description: MONDO Collaboration Framework (WP4)
+    - name: MONDO utils
+      repository: mondo-utils
+      description: Utility classes
+    - name: MONDO-SAM
+      repository: mondo-sam
+      description: A Framework to Systematically Assess MDE Scalability
+    - name: RDF graph drivers
+      repository: rdf-graph-drivers
+      description: Interface specification and implementations for handling RDF models with a graph-like interface
+  - name: SEViz
+    homepage: http://docs.inf.mit.bme.hu/seviz/
+    repositories:
+    - name: SEViz (Symbolic Execution VisualIZer)
+      repository: seviz
+      description: A tool for visualizing symbolic execution-based test generation
+  - name: Train Benchmark
+    homepage: http://docs.inf.mit.bme.hu/trainbenchmark/
+    repositories:
+    - name: Train Benchmark
+      repository: trainbenchmark
+      description: The Train Benchmark framework for evaluating incremental model validation performance
+    - name: Train Benchmark TTC
+      repository: trainbenchmark-ttc
+      description: Framework for the TTC 2015 Train Benchmark case
+  - name: Massif
+    homepage: https://github.com/FTSRG/massif
+    repositories:
+    - name: Massif
+      repository: massif
+      description: A Matlab Simulink Integration Framework for Eclipse
