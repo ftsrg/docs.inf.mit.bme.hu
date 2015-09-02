@@ -54,7 +54,7 @@ projects:
       repository: incqueryd-core
       description: A Scala-based implementation of IncQuery-D's distributed query engine
     - name: Mondix
-      repository: mondix
+      repository: mondo-mondix
       description: The MONDO Indexer
     - name: MONDO Collaboration Framework
       repository: mondo-collab-framework
