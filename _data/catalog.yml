@@ -56,6 +56,13 @@ papers:
 ################################################################################
 
 projects:
+  - name: Massif
+    homepage: https://github.com/FTSRG/massif
+    repositories:
+    - name: Massif
+      repository: massif
+      description: A Matlab Simulink Integration Framework for Eclipse
+
   - name: MONDO
     homepage: http://www.mondo-project.org/
     repositories:
@@ -77,16 +84,12 @@ projects:
     - name: MONDO-SAM
       repository: mondo-sam
       description: A Framework to Systematically Assess MDE Scalability
+    - name: MONDO-SAM Reporting
+      repository: mondo-sam-reporting
+      description: A reposting framework for MONDO-SAM
     - name: RDF graph drivers
       repository: rdf-graph-drivers
       description: Interface specification and implementations for handling RDF models with a graph-like interface
-
-  - name: SEViz
-    homepage: http://docs.inf.mit.bme.hu/seviz/
-    repositories:
-    - name: SEViz (Symbolic Execution VisualIZer)
-      repository: seviz
-      description: A tool for visualizing symbolic execution-based test generation
 
   - name: MODES3
     homepage: http://modes3.tumblr.com/
@@ -94,6 +97,13 @@ projects:
     - name: BME-MODES3
       repository: BME-MODES3
       description: Model-based Demonstrator for Smart and Safe Systems
+
+  - name: SEViz
+    homepage: http://docs.inf.mit.bme.hu/seviz/
+    repositories:
+    - name: SEViz (Symbolic Execution VisualIZer)
+      repository: seviz
+      description: A tool for visualizing symbolic execution-based test generation
 
   - name: Train Benchmark
     homepage: http://docs.inf.mit.bme.hu/trainbenchmark/
@@ -104,10 +114,3 @@ projects:
     - name: Train Benchmark TTC
       repository: trainbenchmark-ttc
       description: Framework for the TTC 2015 Train Benchmark case
-
-  - name: Massif
-    homepage: https://github.com/FTSRG/massif
-    repositories:
-    - name: Massif
-      repository: massif
-      description: A Matlab Simulink Integration Framework for Eclipse
