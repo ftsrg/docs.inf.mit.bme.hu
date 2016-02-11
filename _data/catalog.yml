@@ -3,6 +3,8 @@ organizations:
     purpose: Main organization for FTSRG projects and educational materials
   - name: FTSRG-CSI-2015
     purpose: Organization for the 2015 Critical Systems Integration Laboratory
+  - name: FTSRG-CA-2016
+    purpose: Organization for the 2016 Critical Architectures Laboratory
   - name: FTSRG-VIMIMA01
     purpose: Organization for the Software and Systems Verification course
   - name: FTSRG-archive
@@ -19,10 +21,10 @@ general:
 
 courses:
   - repository: remo
-    name: System Modelling
+    name: System Modelling (new course, VIMIAA00)
     content: Repository for storing notes for the new System Modelling course (2nd semester)
-  - repository: remo-elagazo
-    name: System Modelling (classic)
+  - repository: remo405
+    name: System Modelling (old course, VIMIA405)
     content: Repository for storing notes for the old System Modelling course (7th semester)
   - repository: lecture-notes
     name: Lecture notes
@@ -60,9 +62,9 @@ projects:
     - name: IncQuery-D
       repository: incqueryd
       description: A distributed incremental graph search engine
-    - name: IncQuery-D core
-      repository: incqueryd-core
-      description: A Scala-based implementation of IncQuery-D's distributed query engine
+    - name: IncQuery-DS
+      repository: incquery-ds
+      description: A distributed and sharded approach for incremental query evaluation
     - name: Mondix
       repository: mondo-mondix
       description: The MONDO Indexer
@@ -78,14 +80,21 @@ projects:
     - name: RDF graph drivers
       repository: rdf-graph-drivers
       description: Interface specification and implementations for handling RDF models with a graph-like interface
-  
+
   - name: SEViz
     homepage: http://docs.inf.mit.bme.hu/seviz/
     repositories:
     - name: SEViz (Symbolic Execution VisualIZer)
       repository: seviz
       description: A tool for visualizing symbolic execution-based test generation
-  
+
+  - name: MODES3
+    homepage: http://modes3.tumblr.com/
+    repositories:
+    - name: BME-MODES3
+      repository: BME-MODES3
+      description: Model-based Demonstrator for Smart and Safe Systems
+
   - name: Train Benchmark
     homepage: http://docs.inf.mit.bme.hu/trainbenchmark/
     repositories:
@@ -95,7 +104,7 @@ projects:
     - name: Train Benchmark TTC
       repository: trainbenchmark-ttc
       description: Framework for the TTC 2015 Train Benchmark case
-  
+
   - name: Massif
     homepage: https://github.com/FTSRG/massif
     repositories:
