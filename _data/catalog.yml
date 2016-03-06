@@ -20,12 +20,12 @@ general:
 ################################################################################
 
 courses:
-  - repository: remo
-    name: System Modelling (new course, VIMIAA00)
+  - repository: remo-jegyzet
+    name: System Modelling
     content: Repository for storing notes for the new System Modelling course (2nd semester)
-  - repository: remo405
-    name: System Modelling (old course, VIMIA405)
-    content: Repository for storing notes for the old System Modelling course (7th semester)
+  - repository: remo-gyakorlatok
+    name: System Modelling
+    content: Repository for storing the seminar exercises for the old System Modelling course (7th semester)
   - repository: lecture-notes
     name: Lecture notes
     content: Notes for the Model-Driven Software Development and System Integration courses.
