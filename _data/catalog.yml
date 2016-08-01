@@ -1,10 +1,10 @@
 organizations:
   - name: FTSRG
     purpose: Main organization for FTSRG projects and educational materials
-  - name: FTSRG-CSI-2015
-    purpose: Organization for the 2015 Critical Systems Integration Laboratory
-  - name: FTSRG-CA-2016
-    purpose: Organization for the 2016 Critical Architectures Laboratory
+  - name: FTSRG-CSI
+    purpose: Organization for the Critical Systems Integration Laboratory
+  - name: FTSRG-CA
+    purpose: Organization for the Critical Architectures Laboratory
   - name: FTSRG-VIMIMA01
     purpose: Organization for the Software and Systems Verification course
   - name: FTSRG-archive
