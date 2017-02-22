@@ -5,10 +5,14 @@ organizations:
     purpose: Organization for the Critical Systems Integration Laboratory
   - name: FTSRG-CA
     purpose: Organization for the Critical Architectures Laboratory
+  - name: FTSRG-MDSD
+    purpose: Organization for the Model-based Systems Design course
+  - name: FTSRG-ReteLabor
+    purpose: Organization for the Systems Engineering Laboratory
   - name: FTSRG-VIMIMA01
     purpose: Organization for the Software and Systems Verification course
   - name: FTSRG-archive
-    purpose: Organization for archiving abandoned projects
+    purpose: Organization for archiving projects
 
 ################################################################################
 
